@@ -1,6 +1,9 @@
 # Dragon-Orbiter-Extruder
 Orbiter extruder for the Dragon Hotend using the E3D Toolplate
 See Assembly instructions for all pertinent information.
+
+[Assembly Instructions.pdf](https://github.com/edspeds/Dragon-Orbiter-Extruder/files/7324350/Assembly.Instructions.pdf)
+
 ![IMG_2451](https://user-images.githubusercontent.com/38884522/136829441-8a7f47af-110b-475a-a8bc-c8c621ec6a7a.JPG)
 ![IMG_2464](https://user-images.githubusercontent.com/38884522/136829464-1c6da917-96e4-4e90-9c40-b93e16544969.JPG)
 ![IMG_2465](https://user-images.githubusercontent.com/38884522/136829465-5a22c0dd-13af-46dc-8192-ddd60fb2cf8b.JPG)
